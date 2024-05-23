@@ -8,11 +8,11 @@ main()
     cin >> a;
     if(a<A)
     {
-        cout<<"too small!\n";
+        cout<<"the num is too small!\n";
     }
     else if(a>A)
     {
-        cout<<"too big!\n";
+        cout<<"the num is too big!\n";
     }
     else 
     {
